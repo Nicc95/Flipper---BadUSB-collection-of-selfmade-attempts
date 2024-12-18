@@ -1,0 +1,21 @@
+REM Description: Simple payload to send the victim cmd and then change its color to green, after this is also outputs a halfway nefarious message.
+REM Description: Finally it unveils its just a prank.
+WINDOWS r
+DELAY 1500
+STRING cmd
+DELAY 500
+ENTER
+DELAY 3000
+STRING Color 2
+DELAY 50
+ENTER
+DELAY 50
+STRING Oh. 
+DELAY 100
+STRING So you just started working on your pc, not noticing the suspicious looking device plugged into it? 
+DELAY 200
+STRING Dont worry about it, its to late now anyways. 
+DELAY 200
+STRING I now have control over your system, but dont worry too much i only stole all your logins. 
+DELAY 200
+STRING Also this is all just a joke, please report for IT Security training as you just failed the test. 

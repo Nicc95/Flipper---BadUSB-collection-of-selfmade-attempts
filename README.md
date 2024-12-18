@@ -4,3 +4,5 @@ Will update Readme as the project itself progresses, but endgoal is to have a .t
 Will also be easily editeable message, and also easily extended as you just copy previous lines as needed.
 
 But alas it is currently broken, if you want to try it out and find it to work on your system or find a fix for the problem before i do please do let me know and i will credit you fully.
+
+Shortcode version currently works, but is slow to accommodate slow USB ports/cables and the input visible to the target pc is laggy and not as smooth and believable as the aim is.

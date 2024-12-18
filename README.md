@@ -1,8 +1,6 @@
-Attempt at making a notepad outputting BadUSB Script for Flipper Zero.
-Current status is buggy to say the least, it opens Notepad and outputs lines but when i run it locally on my own system it comes out in fractions of the intended test.
-Will update Readme as the project itself progresses, but endgoal is to have a .txt file that you simply load into your Flipper Zero and then outputs the message.
-Will also be easily editeable message, and also easily extended as you just copy previous lines as needed.
+Collection of selfmade payloads for the Flipper Zero BadUSB mode.
+Drawn inspiration from a few other projects but none of them did what i wanted/needed, so made my own attempts.
 
-But alas it is currently broken, if you want to try it out and find it to work on your system or find a fix for the problem before i do please do let me know and i will credit you fully.
-
-Shortcode version currently works, but is slow to accommodate slow USB ports/cables and the input visible to the target pc is laggy and not as smooth and believable as the aim is.
+All payloads are just load into the Flipper Zero's BadUSB folder from qFlipper, then run on target systems.
+They should be somewhat adapted to run on slower systems for the most part, but the Notepad prank one for some reason is running very slow/laggy.
+If you have any tips or pointers regarding any of my projects do let me know, i am working at learning this properly.

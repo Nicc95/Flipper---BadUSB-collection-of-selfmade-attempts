@@ -1,5 +1,6 @@
 REM Description: Simple payload to send the victim cmd and then change its color to green, after this is also outputs a halfway nefarious message.
 REM Description: Finally it unveils its just a prank.
+REM Description: This is only made for prank purposes, do not use this on any systems you are not allowed to.
 WINDOWS r
 DELAY 1500
 STRING cmd

@@ -1,4 +1,5 @@
 REM Description: Simple payload to send the victim into a google search for what to do when hacked, as an extremely on the nose way of letting them know.
+REM Description: This is only made for prank purposes, do not use this on any systems you are not allowed to.
 WINDOWS r
 DELAY 1500
 STRING cmd -windowstyle hidden

@@ -1,0 +1,10 @@
+REM Description: Simple payload to send the victim into a google search for what to do when hacked, as an extremely on the nose way of letting them know.
+WINDOWS r
+DELAY 1500
+STRING cmd -windowstyle hidden
+DELAY 500
+ENTER
+DELAY 3000
+STRING cmd /c start https://www.google.com/search?q=What+to+do+when+hacked
+DELAY 50
+ENTER

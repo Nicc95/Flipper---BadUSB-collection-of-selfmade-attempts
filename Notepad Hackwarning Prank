@@ -1,3 +1,6 @@
+REM Description: Quick little payload for printing out a message in Notepad. The message came in buggy when i let it be in grouped up.
+REM Description: Sadly therefore it all ended up being split into singular words with delay between, making it large and clunky.
+REM Description: This is only made for prank purposes, do not use this on any systems you are not allowed to.
 GUI r
 DELAY 300
 STRING Notepad

@@ -5,6 +5,7 @@ STRING cmd -windowstyle hidden
 DELAY 500
 ENTER
 DELAY 3000
+REM Description: In the below section just change out the link to whatever you want to send the target system to, to tailor your prank.
 STRING cmd /c start https://www.google.com/search?q=What+to+do+when+hacked
 DELAY 50
 ENTER
